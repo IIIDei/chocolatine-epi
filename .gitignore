@@ -1,0 +1,16 @@
+# Build Files
+*.o
+*.a
+*.gcno
+*.gcda
+*.gcov
+*~
+*#
+*.log
+*.txt
+vgcore*
+
+# Executables
+swapupcase
+unit_testing
+integration_testing
