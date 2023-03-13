@@ -14,3 +14,5 @@ vgcore*
 swapupcase
 unit_testing
 integration_testing
+
+repository_size.yml
